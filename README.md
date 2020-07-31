@@ -1,5 +1,4 @@
-# GeometryDashPlus-Addons
-List of Verified Addons.
+# GeometryDashPlus Addons
 
 ## Security Info
 These Addons have been officially verified and added to the list of Verified Addons. You can still download other Addons, just download them at your own risk. I am not responsible for any damage to your PC, if it happens.
