@@ -9,4 +9,6 @@ Also, if a malicious addon gets added to the list of verified addons (which is n
 ## Verifying Your Addon
 Verifying your addon is a simple step, yet must abide with the following requirements:
 
-* No malicious content should be inside
+* No executable files are allowed (such as ``.exe``, ``.bat``, ``.cmd``, ``.vbs``, ``.jar``, ``.java``, ``.sys``, etc.)
+* No inappropriate content
+* Doesn't copy an existing addon
