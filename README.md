@@ -12,3 +12,5 @@ Verifying your addon is a simple step, yet must abide with the following require
 * No executable files are allowed (such as ``.exe``, ``.bat``, ``.cmd``, ``.vbs``, ``.jar``, ``.java``, ``.sys``, etc.)
 * No inappropriate content
 * Doesn't copy an existing addon
+
+After you've corrected your mistakes, you can now request to verify your Addon by going to the [GD+ Addon Verification Form](https://docs.google.com/forms/d/e/1FAIpQLSct92OebFTNP2z0GErLsmhe66pSUHrlUv71dEt8SYJNFeE1EQ/viewform).
