@@ -22,4 +22,5 @@ All addons are for Geometry Dash 2.11 as of now.
 * [Juniper Texture Pack (v1.1.1)](http://www.mediafire.com/file/aoe9xkw09bxknzn/Juniper_Texture_Pack.zip/file)
 
 ### v1.1.2
+* [Dorami Texture Pack (v1.1.2)](https://www.mediafire.com/file/agt5nphzbci8s0e/Dorami+Texture+Pack.zip/file)
 * [Juniper Texture Pack (v1.1.2)](https://www.mediafire.com/file/w601f1xz7572hcf/Juniper+Texture+Pack+v1.1.2.zip/file)
