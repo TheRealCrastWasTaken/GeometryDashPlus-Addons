@@ -16,5 +16,9 @@ Verifying your addon is a simple step, yet must abide with the following require
 After you've corrected your mistakes, you can now request to verify your Addon by going to the [GD+ Addon Verification Form](https://docs.google.com/forms/d/e/1FAIpQLSct92OebFTNP2z0GErLsmhe66pSUHrlUv71dEt8SYJNFeE1EQ/viewform). Note that it may take up to a week before it is launched. Don't worry, as it's usually around 24 hours.
 
 ## Addons
+
+### v1.1.1
 * [Juniper Texture Pack (v1.1.1)](http://www.mediafire.com/file/aoe9xkw09bxknzn/Juniper_Texture_Pack.zip/file)
+
+### v1.1.2
 * [Juniper Texture Pack (v1.1.2)](https://www.mediafire.com/file/w601f1xz7572hcf/Juniper+Texture+Pack+v1.1.2.zip/file)
