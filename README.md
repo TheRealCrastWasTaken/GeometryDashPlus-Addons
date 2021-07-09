@@ -18,10 +18,8 @@ After you've corrected your mistakes, you can now request to verify your Addon b
 ## Addons
 All addons are for Geometry Dash 2.11 as of now.
 
-### v1.1.1
-* [Juniper Texture Pack (v1.1.1)](http://www.mediafire.com/file/aoe9xkw09bxknzn/Juniper_Texture_Pack.zip/file)
+When the next version of GDPlus releases, you will be able to use the discovery tab to download addons.
 
-### v1.1.2 - v1.2.1
-* [Dorami Texture Pack (v1.1.2 - v1.2.1)](https://www.mediafire.com/file/agt5nphzbci8s0e/Dorami+Texture+Pack.zip/file)
-* [Juniper Texture Pack (v1.1.2 - v1.2.1)](https://www.mediafire.com/file/w601f1xz7572hcf/Juniper+Texture+Pack+v1.1.2.zip/file)
-* [The Guide Pack (v1.1.2 - v1.2.1)](http://www.mediafire.com/file/z6qfq6v5qnxktjy/the+guide+pack.zip/file) by [GDmioyoyos YT](https://www.youtube.com/channel/UCecmh7wYXvblS72Jg8DesCg)
+This is a list of addons, with credit given.
+
+Juniper Texture Pack, by [Lake Iverson](https://www.youtube.com/channel/UCOIlMHu_pKgceEAIHcWK1lA)
