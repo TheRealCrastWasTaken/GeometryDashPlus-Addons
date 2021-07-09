@@ -23,3 +23,4 @@ When the next version of GDPlus releases, you will be able to use the discovery 
 This is a list of addons, with credit given.
 
 Juniper Texture Pack, by [Lake Iverson](https://www.youtube.com/channel/UCOIlMHu_pKgceEAIHcWK1lA)
+Dark Mode Texture Pack, by [jwandel] (https://www.youtube.com/channel/UCA4JBNmKflPBHkhX0uCvMTg)
